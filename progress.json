@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:07:53.134Z",
+  "generated_at": "2026-09-24T17:54:20.091Z",
   "items": {
     "problem:1129": {
       "kind": "problem",
@@ -26,6 +26,84 @@
       "last_pushed_at": "2026-09-24T07:07:52.330Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-06-02T06:27:32.736Z",
+      "last_pushed_at": "2026-06-02T06:27:32.736Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-06-02T06:34:01.911Z",
+      "last_pushed_at": "2026-06-02T06:34:01.911Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-06-02T06:41:42.703Z",
+      "last_pushed_at": "2026-06-02T06:41:42.703Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:647": {
+      "kind": "problem",
+      "id": "647",
+      "title": "Hamming Distance for Kanerva Coding",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/647",
+      "path": "problems/0647-hamming-distance-for-kanerva-coding",
+      "first_solved_at": "2026-06-02T06:57:36.732Z",
+      "last_pushed_at": "2026-06-02T06:57:36.732Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-06-02T07:04:12.980Z",
+      "last_pushed_at": "2026-06-02T07:04:12.980Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-06-02T07:08:25.294Z",
+      "last_pushed_at": "2026-06-02T07:08:25.294Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
