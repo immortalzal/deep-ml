@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**9** solved · 9 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-06-02 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-06-02 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Hamming Distance for Kanerva Coding](https://www.deep-ml.com/problems/647) | easy | 2026-06-02 | [solution](problems/0647-hamming-distance-for-kanerva-coding) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-06-05 | [solution](problems/0046-implement-precision-metric) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-06-02 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-06-02 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-06-02 | [solution](problems/0001-matrix-vector-dot-product) |

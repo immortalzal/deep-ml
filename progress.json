@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:54:20.091Z",
+  "generated_at": "2026-09-24T17:54:22.580Z",
   "items": {
     "problem:1129": {
       "kind": "problem",
@@ -104,6 +104,19 @@
       "last_pushed_at": "2026-06-02T07:08:25.294Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-06-05T09:15:16.503Z",
+      "last_pushed_at": "2026-06-05T09:15:16.503Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }

@@ -1,0 +1,11 @@
+import numpy as np
+def precision(y_true, y_pred):
+	tp = 0
+	fp = 0
+	for i in range(len(y_true)):
+		if y_true[i] and y_pred[i]:
+			tp += 1
+		elif not y_true[i] and y_pred[i]:
+			fp += 1
+	return tp / (tp + fp)
+	pass
