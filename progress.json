@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:54:27.132Z",
+  "generated_at": "2026-09-24T17:54:29.218Z",
   "items": {
     "problem:1129": {
       "kind": "problem",
@@ -208,6 +208,32 @@
       "last_pushed_at": "2026-09-22T18:10:19.742Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2026-09-23T02:51:10.106Z",
+      "last_pushed_at": "2026-09-23T02:51:10.106Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2026-09-23T03:54:46.076Z",
+      "last_pushed_at": "2026-09-23T03:54:46.076Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
