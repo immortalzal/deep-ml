@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 22 problems · 0 labs · 1 math
+**24** solved · 23 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-09-24 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-06-02 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-06-02 | [solution](problems/0086-detect-overfitting-or-underfitting) |
+| [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-09-24 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Hamming Distance for Kanerva Coding](https://www.deep-ml.com/problems/647) | easy | 2026-06-02 | [solution](problems/0647-hamming-distance-for-kanerva-coding) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-06-05 | [solution](problems/0046-implement-precision-metric) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-06-11 | [solution](problems/0042-implement-relu-activation-function) |
