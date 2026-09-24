@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:54:33.348Z",
+  "generated_at": "2026-09-24T18:07:21.671Z",
   "items": {
     "problem:1129": {
       "kind": "problem",
@@ -271,6 +271,19 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-24T17:54:33.346Z",
       "last_pushed_at": "2026-09-24T17:54:33.346Z"
+    },
+    "problem:887": {
+      "kind": "problem",
+      "id": "887",
+      "title": "Build an MLP with nn.Sequential",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/887",
+      "path": "problems/0887-build-an-mlp-with-nn-sequential",
+      "first_solved_at": "2026-09-24T18:07:21.152Z",
+      "last_pushed_at": "2026-09-24T18:07:21.152Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
