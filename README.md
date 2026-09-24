@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 24 problems · 0 labs · 1 math
+**26** solved · 25 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-06-02 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-09-24 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-06-11 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-09-24 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-06-11 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-06-11 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-24 | [solution](problems/0087-adam-optimizer) |
