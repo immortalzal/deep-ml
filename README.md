@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 20 problems · 0 labs · 0 math
+**21** solved · 20 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-09-24 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-09-23 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-06-11 | [solution](problems/0025-single-neuron-with-backpropagation) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-24 | [solution](math/0001-derivatives-and-gradients) |
 
 ---
 
