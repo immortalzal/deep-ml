@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:54:29.218Z",
+  "generated_at": "2026-09-24T17:54:31.310Z",
   "items": {
     "problem:1129": {
       "kind": "problem",
@@ -234,6 +234,32 @@
       "last_pushed_at": "2026-09-23T03:54:46.076Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2026-09-24T05:38:07.609Z",
+      "last_pushed_at": "2026-09-24T05:38:07.609Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:198": {
+      "kind": "problem",
+      "id": "198",
+      "title": "Implement Weight Decay as L2 Regularization",
+      "difficulty": "easy",
+      "category": "Regularization",
+      "url": "https://www.deep-ml.com/problems/198",
+      "path": "problems/0198-implement-weight-decay-as-l2-regularization",
+      "first_solved_at": "2026-09-24T06:23:22.505Z",
+      "last_pushed_at": "2026-09-24T06:23:22.505Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
