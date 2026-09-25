@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 32 problems · 0 labs · 1 math
+**34** solved · 33 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-23 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-09-24 | [solution](problems/1129-merge-multiple-dataframes) |
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-09-25 | [solution](problems/1236-one-adam-update-step) |
+| [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-09-25 | [solution](problems/1219-one-training-step) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-09-25 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-09-23 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-06-11 | [solution](problems/0025-single-neuron-with-backpropagation) |
