@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 36 problems · 0 labs · 1 math
+**38** solved · 37 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-06-11 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-09-24 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-06-11 | [solution](problems/0024-single-neuron) |
+| [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-09-25 | [solution](problems/0906-sinusoidal-positional-encoding) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-06-11 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-24 | [solution](problems/0087-adam-optimizer) |
 | [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-09-25 | [solution](problems/0909-gradient-clipping-by-norm) |
