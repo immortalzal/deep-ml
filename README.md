@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 37 problems · 0 labs · 1 math
+**39** solved · 38 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-09-24 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Hamming Distance for Kanerva Coding](https://www.deep-ml.com/problems/647) | easy | 2026-06-02 | [solution](problems/0647-hamming-distance-for-kanerva-coding) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-09-25 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
+| [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-09-25 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-06-05 | [solution](problems/0046-implement-precision-metric) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-06-11 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-09-24 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
