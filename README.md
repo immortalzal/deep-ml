@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**39** solved · 38 problems · 0 labs · 1 math
+**40** solved · 39 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-09-25 | [solution](problems/0906-sinusoidal-positional-encoding) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-06-11 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-24 | [solution](problems/0087-adam-optimizer) |
+| [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-09-25 | [solution](problems/1233-apply-a-2d-convolution) |
 | [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-09-25 | [solution](problems/0909-gradient-clipping-by-norm) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-09-25 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-24 | [solution](problems/0173-implement-k-nearest-neighbors) |
