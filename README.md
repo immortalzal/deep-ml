@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 33 problems · 0 labs · 1 math
+**35** solved · 34 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-09-25 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-09-23 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-06-11 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-09-25 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 
 ## Math
 
