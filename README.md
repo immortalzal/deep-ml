@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**49** solved · 48 problems · 0 labs · 1 math
+**50** solved · 49 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-09-25 | [solution](problems/1233-apply-a-2d-convolution) |
 | [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-09-25 | [solution](problems/0909-gradient-clipping-by-norm) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-09-25 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
+| [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-09-27 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-24 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-22 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-23 | [solution](problems/0054-implementing-a-simple-rnn) |
