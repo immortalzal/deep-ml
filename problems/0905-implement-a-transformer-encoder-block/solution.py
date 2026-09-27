@@ -20,13 +20,13 @@ class TransformerBlock(nn.Module):
     def forward(self, x):
         #attention: layernorm, then attention, the dropout
         normed_x1 = self.norm1(x)
-        atten = self.attn(key = normed_x1, query = normed_x1, value = normed_x1)
-        x = x + self.dropout(normed_x1)
+        atten, _ = self.attn(key = normed_x1, query = normed_x1, value = normed_x1)
+        x = x + self.dropout(atten)
 
         #neural network
         normed_x2 = self.norm2(x)
         neu = self.mlp(normed_x2)
-        x = x + self.dropout(normed_x2)
+        x = x + self.dropout(neu)
         return x
 
         # TODO: pre-LN attention sublayer, then pre-LN MLP sublayer, both with residual
